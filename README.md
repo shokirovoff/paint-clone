@@ -16,4 +16,4 @@ Bu loyiha **JavaScript** yordamida yaratilgan Paint dasturining kloni hisoblanad
 
 Baxtiyor Coder
 
-DEMO: 
+DEMO: https://paint-clone-pi.vercel.app/
